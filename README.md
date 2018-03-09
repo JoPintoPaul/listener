@@ -1,6 +1,6 @@
 # listener
 
-Welcome to the upscan-listener service.
+Welcome to the listener service.
 
 To use the service, use the following URL for callback in your service: `http://localhost:12345/listen`
 
